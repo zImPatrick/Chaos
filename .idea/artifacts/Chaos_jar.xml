@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Chaos:jar">
+    <output-path>$PROJECT_DIR$/../../../Server/1.16/plugins</output-path>
+    <root id="archive" name="Chaos.jar">
+      <element id="module-output" name="Chaos" />
+      <element id="extracted-dir" path="D:/Java-WebSocket-1.5.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
